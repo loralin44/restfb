@@ -146,7 +146,9 @@
       <version>${version.assertj}</version>
       <scope>test</scope>
     </dependency>
+
   </dependencies>
+
 
   <build>
     <plugins>
